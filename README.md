@@ -1,8 +1,6 @@
 # NextGenCoder Coding Challenge #54 - Array of Strings Checker from Upper Case Letters
   ## Instagram Source : @nextgencoder
 
----
-
 ### Intro
 This code is written using modern javascript arrow function ES6 feature. 
   
